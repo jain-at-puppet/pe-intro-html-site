@@ -345,3 +345,22 @@ pre {
 #main-container {
   width: 270px;
 }
+
+.right-col-border {
+  border-right: 1px solid #bbbbbb50;
+  padding-right: 50px;
+}
+
+.left-col-border {
+  border-left: 1px solid #bbbbbb50;
+  padding-left: 50px;
+}
+
+.pad-text {
+  margin-top: 25px;
+  padding: 5px 25px;
+}
+
+footer {
+  margin: 50px;
+}
